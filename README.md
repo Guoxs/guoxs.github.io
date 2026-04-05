@@ -1,1 +1,1 @@
-Personal Website Page: https://guoxs.github.com/.
+Personal Website Page: https://guoxs.github.io.
